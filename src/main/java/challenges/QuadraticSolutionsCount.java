@@ -1,4 +1,4 @@
-package challenges.quadratic;
+package challenges;
 
 /**
  * This class contains a method to answer the question 'how many real solutions

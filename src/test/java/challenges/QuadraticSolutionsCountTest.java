@@ -1,8 +1,6 @@
-package challenges.quadragic;
+package challenges;
 
 import org.junit.jupiter.api.Test;
-
-import challenges.quadratic.QuadraticSolutionsCount;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
